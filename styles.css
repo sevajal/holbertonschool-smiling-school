@@ -173,3 +173,8 @@ li a:hover {
         font-size: var(--font-size-xx-large);
     }
 }
+
+/* carousel */ 
+.carousel-item {
+    background-color: var(--color-purple);
+}
