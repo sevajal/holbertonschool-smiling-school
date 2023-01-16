@@ -191,3 +191,11 @@ li a:hover {
     background-size: 230x;
     height: 150px;
 }
+
+.social {
+    fill: var(--color-white);
+}
+
+.bg-black {
+    background-color: var(--color-black);
+}
