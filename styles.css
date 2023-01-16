@@ -199,3 +199,12 @@ li a:hover {
 .bg-black {
     background-color: var(--color-black);
 }
+
+/* PRICING */
+.back-img-pricing {
+    background-image: url(./images/pic_2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    height: 1093px;
+}
