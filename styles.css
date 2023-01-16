@@ -219,3 +219,12 @@ li a:hover {
     content: "\e905";
     color: var(--color-green);
 }
+
+/* COURSES */
+.back-img-courses {
+    background-image: url(./images/pic_3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    height: 250px;
+}
