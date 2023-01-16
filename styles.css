@@ -4,6 +4,7 @@
     --color-purple: #C271FF;
     --color-white: #FFFFFF;
     --color-black: #071629;
+    --color-green: #82D24F;
     --font-weight-regular: 300;
     --font-weight-bold: 700;
     --line-height: 20px;
@@ -207,4 +208,14 @@ li a:hover {
     background-size: cover;
     background-position: top center;
     height: 1093px;
+}
+
+.holberton_school-icon {
+    font-size: 2rem;
+    color: var(--color-white);
+}
+
+.holberton_school-icon-check:before {
+    content: "\e905";
+    color: var(--color-green);
 }
