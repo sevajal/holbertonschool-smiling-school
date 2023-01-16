@@ -117,7 +117,7 @@ li a:hover {
     line-height: var(--line-height);
 }
 
-.section-hero .btn-primary {
+.section-hero .btn-primary, .membership .btn-primary {
     background-color: var(--color-purple);
     border-color: var(--color-purple);
     border-radius: 25px;
