@@ -175,6 +175,19 @@ li a:hover {
 }
 
 /* carousel */ 
-.carousel-item {
+.carousel-main .carousel-item {
     background-color: var(--color-purple);
+}
+
+/* tutorials */
+.img-rating {
+    max-width: 50px;
+}
+
+.thumbnail {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    background-size: 230x;
+    height: 150px;
 }
