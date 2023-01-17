@@ -228,3 +228,21 @@ li a:hover {
     background-position: top center;
     height: 250px;
 }
+
+.bg-purple {
+    background-color: var(--color-purple);
+}
+
+.filters .form-control, .filters .input-group-prepend, .filters .input-group-text {
+    background-color: #cd8ffc;
+    color: var(--color-white);
+}
+
+.holberton_school-icon-search_1:before {
+    content: "\e912";
+    color: var(--color-white);
+}
+
+.filters input:focus, .filters input:active {
+    background-color: #cd8ffc;
+}
